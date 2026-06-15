@@ -1,28 +1,24 @@
-# 🌄 Explore Ooty Tourism Website
+# Explore Ooty Tourism Website
 
 A modern and responsive tourism website showcasing the beauty of Ooty – the Queen of Hill Stations.
 
 
-## 📌 Project Overview
+## Project Overview
   This project is a UI-based website built using HTML and CSS.It focuses on clean design and user-friendly interface
 
 
-## ✨ Features
-- 🌿 Beautiful Hero Section with background image  
-- 🗺️ Places showcase using card layout  
-- 🎨 Clean and modern UI design   
-- 📞 Footer with contact details  
+## Features
+- Beautiful Hero Section with background image  
+- Places showcase using card layout  
+- Clean and modern UI design   
+- Footer with contact details  
 
 
-## 📄 Pages Included
-- 🏠 Home Page  
-- 📍 Places Page  
+## Pages Included
+- Home Page  
+- Places Page  
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML5  
 - CSS3 (Flexbox & Grid)  
-  
-
-## 🌐 Live Website
-👉 https://lothi-07.github.io/tourism-website/
