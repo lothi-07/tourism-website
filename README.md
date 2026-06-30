@@ -1,4 +1,4 @@
-# Explore Ooty -queen of hills
+# Explore Ooty -
 
 A modern and responsive tourism website showcasing the beauty of Ooty – the Queen of Hill Stations.
 
