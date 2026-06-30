@@ -1,4 +1,4 @@
-# Explore Ooty -
+# Explore Ooty 
 
 A modern and responsive tourism website showcasing the beauty of Ooty – the Queen of Hill Stations.
 
@@ -19,6 +19,3 @@ A modern and responsive tourism website showcasing the beauty of Ooty – the Qu
 - Places Page  
 
 
-## Technologies Used
-- HTML5  
-- CSS3 (Flexbox & Grid)  
