@@ -20,7 +20,4 @@ A modern and responsive tourism website showcasing the beauty of Ooty – the Qu
 - Places Page
 
 
-## Tech Stack
-- HTML
-- CSS
 
